@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "879991934421",
+    "firebase_url": "https://managementsystem-78442-default-rtdb.firebaseio.com",
+    "project_id": "managementsystem-78442",
+    "storage_bucket": "managementsystem-78442.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879991934421:android:4a92f298391bcb59d6815c",
+        "android_client_info": {
+          "package_name": "com.employeepro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRNqelYWOE4StxYWPAZBR9Kwp6bwcwRSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879991934421:android:a3abfdd6bf68041bd6815c",
+        "android_client_info": {
+          "package_name": "com.sms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRNqelYWOE4StxYWPAZBR9Kwp6bwcwRSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
